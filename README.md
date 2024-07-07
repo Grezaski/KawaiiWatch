@@ -81,6 +81,7 @@ http://localhost:3000
 - You can turn on live customer communication with Tawk.to, go to https://tawk.to and follow their setup instructions. Save the Property ID and Widget ID into the `NEXT_PUBLIC_TAWKTO_PROPERTY_ID` and `NEXT_PUBLIC_TAWKTO_WIDGET_ID` variables, respectively
 
 ## Credits
+- [Jeydin21](https://github.com/Jeydin21) for the Source code (It is its old version) 
 - [Consumet API](https://github.com/consumet/api.consumet.org) for all anime details and sources
 - [Anilist](https://anilist.co/) was used to provide extensive episode details and statistics
 
